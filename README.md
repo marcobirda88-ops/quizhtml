@@ -144,6 +144,5 @@ document.getElementById('checkBtn').addEventListener('click', () => {
     document.getElementById('result').textContent = "Scorul tău final: " + score + " / ";
 });
 </script>
-
 </body>
 </html>
